@@ -6,9 +6,12 @@ Here you can find my android application in java, a couple of sites (php/js+mysq
 
 Skills: JAVA / PYTHON / SQL / ML
 
- 🔭 I’m currently working on this page.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/tispen=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apitispen=anuraghazra&show_icons=true&theme=transparent)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+projects)](https://git.io/typing-svg)
+
+
 
 
 
