@@ -1,7 +1,19 @@
-### Hi there 👋
+
+### Hi there 👋, I am Julia
+#### I am backend-developer (py/java) and in free time i am coding ml and android
+
+Here you can find my android application in java, a couple of sites (php/js+mysql) and a few small apps/bots on py/java using machine learning. Web full stack with php is definitely not interesting to me
+
+Skills: JAVA / PYTHON / SQL / ML
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
 
 <!--
-**tispen/tispen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tispen/tis is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
