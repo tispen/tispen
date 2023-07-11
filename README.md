@@ -6,7 +6,11 @@ Here you can find my android application in java, a couple of sites (php/js+mysq
 
 Skills: JAVA / PYTHON / SQL / ML
 
-- 🔭 I’m currently working on this page. 
+ 🔭 I’m currently working on this page.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apitispen=anuraghazra&show_icons=true&theme=transparent)
+
+
 
 
 
