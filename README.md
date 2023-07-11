@@ -1,20 +1,16 @@
 
-### Hi there 👋, I am Julia
-#### I am backend-developer (py/java) and in free time i am coding ml and android
+### Hi gays 👋, I am Julia
+#### I am backend-developer (py/java) and in free time i am coding smaill android apps or python bots with AI technology/machine learning. 
 
-Here you can find my android application in java, a couple of sites (php/js+mysql) and a few small apps/bots on py/java using machine learning. Web full stack with php is definitely not interesting to me
-
-Skills: JAVA / PYTHON / SQL / ML
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+languages)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tispen)](https://github.com/anuraghazra))
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+last+projects)](https://git.io/typing-svg)
 
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+projects)](https://git.io/typing-svg)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tispen&repo=Mobile_app_violin)](https://github.com/tispen/Mobile_app_violin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tispen&repo=Chat_app)](https://github.com/tispen/Chat_app)
 
 
 
