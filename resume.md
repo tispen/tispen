@@ -5,12 +5,11 @@
 <img src="images/image 2.png" align="left" width="220px"/> 
 
 **Контакты:**  
-+79309643736
 
 Telegram:
-[![Telegram Badge](https://img.shields.io/badge/-usr036943-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nonmeaculpa)   
+[![Telegram Badge](https://img.shields.io/badge/-nonmeaculpa-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nonmeaculpa)   
 E-mail: 
-[![Gmail Badge](https://img.shields.io/badge/-karim_ildar@mail.ru-blue?style=flat&logo=Mail&logoColor=white)](mailto:khodyrevajulya@yandex.ru)  
+[![Gmail Badge](https://img.shields.io/badge/-khodyrevajulya@yandex.ru-blue?style=flat&logo=Mail&logoColor=white)](mailto:khodyrevajulya@yandex.ru)  
 Portfolio:
 [![Gmail Badge](https://img.shields.io/badge/-usr036943-grey?style=flat&logo=Github&logoColor=white)](https://github.com/tispen)
 <br clear="left"/> 
@@ -38,7 +37,7 @@ SQL`, `PostgreSQL`, `Python`, `Tableau`, `MS PowerPoint`, `Atlassian Confluence`
 ## Опыт работы
 ### Июль 2024 — по настоящее время
 
-**АКБ НРБанк, [way2innovations.ru](https://www.way2innovations.ru/)**
+**АКБ НРБанк
 
 **Аналитик**
 
@@ -57,7 +56,7 @@ SQL`, `PostgreSQL`, `Python`, `Tableau`, `MS PowerPoint`, `Atlassian Confluence`
 — Вела документацию проекта в Confluence, Jira Atlassian.
 - Проводила приемочное тестирование (ПСИ) системы, писала методику приемо-сдаточных испытаний (ПМИ).
 
-### Март 2017 — сентябрь 2022
+### март 2022 — сентябрь 2022
 
 **Банк Точка, [tochka.com](https://tochka.com/)**
 
@@ -81,24 +80,6 @@ SQL`, `PostgreSQL`, `Python`, `Tableau`, `MS PowerPoint`, `Atlassian Confluence`
 презентации), помогал покупателям готового бизнеса правильно анализировать бизнес показатели до покупки объекта.  
 — Провел более 10 успешных сделок по покупке-продаже готового бизнеса.
 
-### Апрель 2015 — апрель 2016
-**Выпекайка. Интернет-магазин кондитерского сырья, [vypekaika.ru](https://vypekaika.ru/)**
-
-**Руководитель интернет-проекта**
-
-— Запустил и настроил онлайн-торговлю в региональной оптовой компании через интернет-магазин.  
-— Оформил и вывел сайт на первые строки поисковика по соответствующим запросам с помощью Яндекс.Директ.  
-— Организовал торговлю через социальные сети.
-
-### Март 2013 — апрель 2015
-**Много мебели, Орматек, АСМ-Мебель**
-
-**Управляющий мебельных салонов**
-
-— За 3 месяца работы "вырос" от стажера до управляющего салоном.  
-— Руководил коллективом розничного магазина (до 15 человек) , в том числе занимался приемом, обучением и коучингом персонала.  
-— Под моим руководством 2 раза салон получил титул - "Лучший салон региона".  
-— Запустил и организовал работу еще в 2 новых салонах.
 
 ## Образование
 Высшее, 2009 
