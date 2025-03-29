@@ -1,5 +1,4 @@
 
-### I am Julia Khodyreva
 #### I am analytic 
 #### Also i was a backend-developer (py/java) in free time i was coding small android apps or python bots with AI technology/machine learning. 
 
