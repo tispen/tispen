@@ -6,10 +6,8 @@ learning some topics and want to write issues
 
 #### now i looking for a new job
 
-
-
-
-
+my resume om english
+мое резюме на русском языке
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+languages)](https://git.io/typing-svg)
