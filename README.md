@@ -1,6 +1,7 @@
 
 ### Hi gays 👋, I am Julia
-#### I am backend-developer (py/java) and in free time i am coding smaill android apps or python bots with AI technology/machine learning. 
+#### I am analytic 
+#### Also i was a backend-developer (py/java) in free time i was coding small android apps or python bots with AI technology/machine learning. 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+languages)](https://git.io/typing-svg)
 
