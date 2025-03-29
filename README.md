@@ -1,9 +1,7 @@
 
 #### I am analytic and backend-developer (py/java) 
 code small android apps or python bots with AI technology/machine learning. 
-learning topics and want to write issues 
-
-
+now i learning topics and want to write issues 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+languages)](https://git.io/typing-svg)
 
