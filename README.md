@@ -1,6 +1,9 @@
 
-#### I am analytic 
-#### Also i was a backend-developer (py/java) in free time i was coding small android apps or python bots with AI technology/machine learning. 
+#### I am analytic and backend-developer (py/java) 
+code small android apps or python bots with AI technology/machine learning. 
+learning topics and want to write issues 
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+languages)](https://git.io/typing-svg)
 
