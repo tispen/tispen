@@ -1,7 +1,16 @@
 
-#### I am analytic and backend-developer (py/java) 
-code small android apps or python bots with AI technology/machine learning. 
-now i learning topics and want to write issues 
+#### i am analytic and backend-developer (py/android java) 
+live in Moscow
+code small android apps or python ML bots 
+learning some topics and want to write issues 
+
+#### now i looking for a new job
+
+
+
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+languages)](https://git.io/typing-svg)
 
