@@ -18,6 +18,8 @@ learning topics and want to write issues
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tispen&repo=Python-AI-ML-Finance)](https://github.com/tispen/Python-AI-ML-Finance)
 
+My issues
+
 
 
 резюме на русском языке
